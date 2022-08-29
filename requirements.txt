@@ -1,2 +1,6 @@
 jupyter
 ipykernel
+flask
+flask-restx
+requests
+Werkzeug==2.1.2
